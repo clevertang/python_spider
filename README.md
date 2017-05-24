@@ -1,3 +1,4 @@
+#python 3.6
 # python_spider
 #_author_='clevertang'
 a demo for python spider
